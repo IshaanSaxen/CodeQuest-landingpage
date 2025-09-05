@@ -1,5 +1,5 @@
 # CodeQuest
-**CodeQuest** is a galaxy-themed landing page for a coding community app.  
+It is a galaxy-themed landing page for **CodeQuest**.  
 It combines the futuristic vibe of **Discord** with the clean simplicity of **Duolingo**, built as a **static HTML + TailwindCSS website**.
 
 ---

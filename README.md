@@ -4,17 +4,6 @@ CodeQuest is a next-generation coding platform that makes learning to code feel 
 
 ---
 
-## 🚀 Features
-- ✨ **Galaxy background** with animated glowing stars  
-- 🌠 **Smooth twinkle & drift animations** for a cosmic feel  
-- 💡 **Glowing neon buttons** with hover effects  
-- 📱 **Responsive design** (works on mobile, tablet, and desktop)  
-- 📂 **Sections included**:
-  - Hero Section
-  - About CodeQuest
-  - Features Grid
-  - Community CTA
-  - Footer with Language Switch & Social Links  
 
 ---
 
